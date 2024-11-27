@@ -1,0 +1,5 @@
+1 The accountant met [the janitor] and wished [her] well.
+2 The janitor met [the accountant] and wished [him] well.
+3 The assistant notified the [the chief] about a problem and asked [her] to take action.
+4 The chief notified [the assistant] and asked [him] to take note.
+5 The teacher spoke to [the carpenter] and asked [her] to fix a chair.
